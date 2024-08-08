@@ -7,7 +7,7 @@
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/android-form-validation.git
+    git clone https://github.com/milan-sony/QuizApp.git
     ```
 
 2. Open the project in Android Studio.
